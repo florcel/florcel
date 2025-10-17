@@ -2,16 +2,16 @@
 
 # 👋 Hi, I'm Florencia
 
-💻 **QA Automation | Software Tester | Learning Selenium & Pytest**  
+💻 **QA Automation | Software Tester | Selenium & Pytest**  
 🚀 Passionate about software quality, test automation, and continuous learning.  
 🐶 In my free time, I enjoy reading fiction books and spending time with my dog.  
 
 ## 🔧 Tech Stack
 
-- **Languages:** Python, SQL, JavaScript (basic)  
+- **Languages:** Python, SQL, JavaScript 
 - **Testing:** Selenium, Pytest, Allure, Postman  
 - **Methodologies:** Agile / Scrum  
-- **Others:** Git, GitHub Actions, Docker (basic)
+- **Others:** Git, GitHub Actions, Docker
 
 ## 📂 Featured Projects
 
