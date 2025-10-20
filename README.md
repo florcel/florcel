@@ -22,6 +22,20 @@ Includes:
 - Automated tests with Pytest and Allure reports  
 - Parallel test execution with `pytest-xdist`
 
+🔹 [**performance-tests-jpetstore**](https://github.com/florcel/performance-tests-jpetstore)  
+Performance testing project for the **JPetStore demo app** using **JMeter**.  
+Includes:
+- Load, stress, and spike testing scenarios  
+- Detailed reports with response times and throughput  
+- Parameterization for flexible test runs  
+
+🔹 [**datafuzz-ai**](https://github.com/florcel/datafuzz-ai)  
+AI-powered **test data generation tool**.  
+Includes:
+- Smart data fuzzing with Python  
+- Configurable data sets for functional and stress testing  
+- Integration-ready for automation frameworks
+
   
 ##  📫 Reach me: <p align='center'>
   <a href="https://www.linkedin.com/in/florenciaporcel/">
